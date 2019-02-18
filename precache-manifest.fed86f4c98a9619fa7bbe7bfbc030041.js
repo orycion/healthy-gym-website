@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "b1dceb660319cfab85d0",
+    "revision": "b2cb957a9f30f09bc5a5",
     "url": "/static/css/main.4a0c1fb3.chunk.css"
   },
   {
-    "revision": "b1dceb660319cfab85d0",
-    "url": "/static/js/main.b1dceb66.chunk.js"
+    "revision": "b2cb957a9f30f09bc5a5",
+    "url": "/static/js/main.b2cb957a.chunk.js"
   },
   {
     "revision": "b391a55ad5e238a7bbff",
@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/barbell.1144c15f.jpg"
   },
   {
-    "revision": "c32da4f7b7d21ac7e7f8795fa4f6587d",
+    "revision": "b1752871495de00be3aa1f797eae4d87",
     "url": "/index.html"
   }
 ];
