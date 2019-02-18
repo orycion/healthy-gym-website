@@ -32,7 +32,7 @@ self.__precacheManifest = [
     "url": "/static/media/barbell.1144c15f.jpg"
   },
   {
-    "revision": "9f3781d9846d3e1e89038e885f31972d",
+    "revision": "b7dcc784b82814ec825d3ebb3c572008",
     "url": "/index.html"
   }
 ];
