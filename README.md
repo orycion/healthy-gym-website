@@ -1,2 +1,3 @@
-# healthy-gym-website
-The website for Healthy Gym.
+# Strive Website
+
+Deployed website for Strive.
