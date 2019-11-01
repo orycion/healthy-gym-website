@@ -1,17 +1,25 @@
 {
-  "main.css": "/static/css/main.cdcc75f5.chunk.css",
-  "main.js": "/static/js/main.04f18132.chunk.js",
-  "main.js.map": "/static/js/main.04f18132.chunk.js.map",
-  "static/js/1.b391a55a.chunk.js": "/static/js/1.b391a55a.chunk.js",
-  "static/js/1.b391a55a.chunk.js.map": "/static/js/1.b391a55a.chunk.js.map",
-  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
-  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
-  "static/media/workout_image.png": "/static/media/workout_image.59df145c.png",
-  "static/media/ipad_image.png": "/static/media/ipad_image.5732f2b3.png",
-  "static/media/goals_image.png": "/static/media/goals_image.8296f14f.png",
-  "static/media/barbell.jpg": "/static/media/barbell.1144c15f.jpg",
-  "static/css/main.cdcc75f5.chunk.css.map": "/static/css/main.cdcc75f5.chunk.css.map",
-  "index.html": "/index.html",
-  "precache-manifest.760f6922fe1d6a864256f7051035ecb6.js": "/precache-manifest.760f6922fe1d6a864256f7051035ecb6.js",
-  "service-worker.js": "/service-worker.js"
+  "files": {
+    "main.css": "/static/css/main.637560a3.chunk.css",
+    "main.js": "/static/js/main.bd33fa80.chunk.js",
+    "main.js.map": "/static/js/main.bd33fa80.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3c24ee78.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3c24ee78.js.map",
+    "static/js/2.957ce3dd.chunk.js": "/static/js/2.957ce3dd.chunk.js",
+    "static/js/2.957ce3dd.chunk.js.map": "/static/js/2.957ce3dd.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.855f44fc1cbe9cae201c1c97db26e1be.js": "/precache-manifest.855f44fc1cbe9cae201c1c97db26e1be.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.637560a3.chunk.css.map": "/static/css/main.637560a3.chunk.css.map",
+    "static/media/barbell.jpg": "/static/media/barbell.1144c15f.jpg",
+    "static/media/goals_image.png": "/static/media/goals_image.8296f14f.png",
+    "static/media/ipad_image.png": "/static/media/ipad_image.5732f2b3.png",
+    "static/media/workout_image.png": "/static/media/workout_image.59df145c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c24ee78.js",
+    "static/js/2.957ce3dd.chunk.js",
+    "static/css/main.637560a3.chunk.css",
+    "static/js/main.bd33fa80.chunk.js"
+  ]
 }
