@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.31a8f7fc.chunk.css",
+    "main.css": "/static/css/main.3a3fcca3.chunk.css",
     "main.js": "/static/js/main.e6e832d8.chunk.js",
     "main.js.map": "/static/js/main.e6e832d8.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.12f7baaa.js",
@@ -8,9 +8,9 @@
     "static/js/2.2c0b3bab.chunk.js": "/static/js/2.2c0b3bab.chunk.js",
     "static/js/2.2c0b3bab.chunk.js.map": "/static/js/2.2c0b3bab.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.cf9221cec31ad7e0ba06983fcc265fd3.js": "/precache-manifest.cf9221cec31ad7e0ba06983fcc265fd3.js",
+    "precache-manifest.e09267269613dae406fcf4453ea42004.js": "/precache-manifest.e09267269613dae406fcf4453ea42004.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.31a8f7fc.chunk.css.map": "/static/css/main.31a8f7fc.chunk.css.map",
+    "static/css/main.3a3fcca3.chunk.css.map": "/static/css/main.3a3fcca3.chunk.css.map",
     "static/js/2.2c0b3bab.chunk.js.LICENSE": "/static/js/2.2c0b3bab.chunk.js.LICENSE",
     "static/media/barbell.jpg": "/static/media/barbell.08818a42.jpg",
     "static/media/goals_image.png": "/static/media/goals_image.9f8d9dff.png",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.12f7baaa.js",
     "static/js/2.2c0b3bab.chunk.js",
-    "static/css/main.31a8f7fc.chunk.css",
+    "static/css/main.3a3fcca3.chunk.css",
     "static/js/main.e6e832d8.chunk.js"
   ]
 }
